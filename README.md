@@ -6,7 +6,7 @@ TensorFlow/TensorRT Models on Jetson
 </p>
 
 This repository contains scripts and documentation to use TensorFlow image classification and object detection models on NVIDIA Jetson.  The models are sourced from the [TensorFlow models repository](https://github.com/tensorflow/models)
-and optimized using TensorRT.
+and optimized using TensorRT..
 
 * [Setup](#setup)
 * [Image Classification](#ic)
